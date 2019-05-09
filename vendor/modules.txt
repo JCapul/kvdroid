@@ -1,0 +1,6 @@
+# github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
+github.com/kardianos/osext
+# github.com/sevlyar/go-daemon v0.1.5
+github.com/sevlyar/go-daemon
+# golang.org/x/sys v0.0.0-20190508220229-2d0786266e9c
+golang.org/x/sys/unix
